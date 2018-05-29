@@ -1,0 +1,61 @@
+{
+    "topics": [{
+            "name": "game",
+            "subtopics": [{
+                    "name": "online"
+                },
+                {
+                    "name": "multiplayer"
+                }
+            ]
+        },
+        {
+            "name": "programming"
+        },
+        {
+            "name": "technology",
+            "subtopics": [{
+                    "name": "apple"
+                },
+                {
+                    "name": "speaker"
+                },
+                {
+                    "name": "homehub"
+                },
+                {
+                    "name": "personal_assistant"
+                },
+                {
+                    "name": "wireless_charging"
+                }
+            ]
+        }
+    ],
+    "subreddits": {
+        "Diepio": [
+            "game",
+            "online",
+            "multiplayer"
+        ],
+        "Nebula_Devs": [
+            "programming"
+        ],
+        "Apple": [
+            "apple",
+            "technology"
+        ],
+        "Airpower": [
+            "apple",
+            "technology",
+            "wireless_charging"
+        ],
+        "HomePod": [
+            "apple",
+            "technology",
+            "speaker",
+            "homehub",
+            "personal_assistant"
+        ]
+    }
+}
